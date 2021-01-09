@@ -1,0 +1,21 @@
+#signupdiv{
+    background-color: aqua;
+    margin: 10%;
+   
+}
+.signLogDiv{
+    /*font-family: 'Bad Script', cursive;*/
+    font-family: 'Comic Sans MS', cursive;
+    background-color: rgba(240, 240, 240, 0.8);
+    text-align: center;
+    margin: 10% 30% 0% 30%;
+    padding:2%;
+    border-radius: 15px; 
+    border: 2px solid #595c56;
+    -webkit-box-shadow: 0px 0px 34px 2px #000000; 
+    box-shadow: 0px 0px 34px 2px #000000;
+   
+}
+body{
+    background-color: #595c56;
+}
